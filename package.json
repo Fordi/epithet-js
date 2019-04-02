@@ -1,0 +1,19 @@
+{
+  "name": "epithet-js",
+  "version": "1.0.3",
+  "description": "A tiny library for putting you in your place.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified, you $(node -e \"console.log(require('./index')())\")\" && exit 1"
+  },
+  "author": "Bryan Elliott",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fordi/epithet-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fordi/epithet-js/issues"
+  },
+  "homepage": "https://github.com/Fordi/epithet-js#readme"
+}
